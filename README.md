@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hiifong/hiifong/blob/snake/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hiifong/hiifong/snake/snake.svg" alt="Snake animation" />
 
 ###
 
