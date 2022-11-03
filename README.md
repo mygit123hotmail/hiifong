@@ -1,6 +1,10 @@
 # I'm hiifong,full stack developer like
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugo Functions文档翻译](https://i.hiifong.cc/functions/)
+- [Hugo Template 文档翻译](https://i.hiifong.cc/template/)
+- [7月](https://i.hiifong.cc/7m/)
+- [10月](https://i.hiifong.cc/10m/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="left">
