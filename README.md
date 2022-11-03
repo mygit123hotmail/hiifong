@@ -1,5 +1,6 @@
 # I'm hiifong,full stack developer like
 
+📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Hugo Functions文档翻译](https://i.hiifong.cc/functions/)
 - [Hugo Template 文档翻译](https://i.hiifong.cc/template/)
