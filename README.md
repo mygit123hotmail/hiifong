@@ -1,12 +1,6 @@
 # I'm hiifong,full stack developer like
 
-<!-- BLOG-POST-LIST:START -->
-- [Hugo Functions文档翻译](https://i.hiifong.cc/functions/)
-- [Hugo Template 文档翻译](https://i.hiifong.cc/template/)
-- [7月](https://i.hiifong.cc/7m/)
-- [10月](https://i.hiifong.cc/10m/)
-- [如何在ubuntu server上使用clash](https://i.hiifong.cc/ubuntu/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- $randomEmoji[Hugo Functions文档翻译](https://i.hiifong.cc/functions/)--- 函数 Go模板是轻量级的，但可扩展的。Go本身提供了内置函数，包括比较运算符和其他基本工具。这些都列在Go模板文档中。Hugo为基本的模板逻辑   --Sat Oct 29 2022 11:11 AM- $randomEmoji[Hugo Template 文档翻译](https://i.hiifong.cc/template/)--- Template 基本语法（Basic Syntax） Go模板是添加了变量和函数的HTML文件。Go模板的变量和函数可以在{{ }}内访问。 访问一个预定义的变量   --Sat Oct 29 2022 9:11 AM- $randomEmoji[7月](https://i.hiifong.cc/7m/)--- 涠洲岛   --Fri Oct 07 2022 1:11 PM- $randomEmoji[10月](https://i.hiifong.cc/10m/)--- 国庆假期 10/3 10/4   --Fri Oct 07 2022 12:11 PM- $randomEmoji[如何在ubuntu server上使用clash](https://i.hiifong.cc/ubuntu/)--- &amp;hellip;&amp;hellip;   --Fri Oct 07 2022 6:28 AM<!-- BLOG-POST-LIST:END -->
 
 <div align="left">
 </div>
