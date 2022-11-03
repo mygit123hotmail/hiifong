@@ -17,5 +17,5 @@ jobs:
         with:
           max_post_count: "5"
           remove_duplicates: true
-          template: "- $randomEmoji[$title]($url)--- $description   --$date"
+          template: "$randomEmoji [$title]($url)  --$date"
           feed_list: "https://i.hiifong.cc/index.xml"
