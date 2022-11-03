@@ -1,5 +1,9 @@
 # I'm hiifong,full stack developer like
 
+📕  Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <div align="left">
 </div>
 
