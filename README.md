@@ -1,5 +1,7 @@
 # I'm hiifong,full stack developer like
 
+[![My user statistics](images/userstats.svg)](https://github.com/hiifong)
+
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Hugo Functions文档翻译](https://i.hiifong.cc/functions/)
