@@ -1,7 +1,6 @@
 # I'm hiifong,full stack developer like
 
 [![My user statistics](images/userstats.svg)](https://github.com/hiifong)
-
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Hugo Functions文档翻译](https://i.hiifong.cc/functions/)
@@ -11,15 +10,6 @@
 - [如何在ubuntu server上使用clash](https://i.hiifong.cc/ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=hiifong" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=hiifong" height="150" alt="languages graph"  />
-</div>
 
 ###
 
