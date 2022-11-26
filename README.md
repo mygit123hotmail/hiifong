@@ -4,11 +4,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Try Gitea Action](https://i.hiifong.cc/try-gitea-action/)
 - [Hugo Functions文档翻译](https://i.hiifong.cc/functions/)
 - [Hugo Template 文档翻译](https://i.hiifong.cc/template/)
 - [7月](https://i.hiifong.cc/7m/)
 - [10月](https://i.hiifong.cc/10m/)
-- [如何在ubuntu server上使用clash](https://i.hiifong.cc/ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 
