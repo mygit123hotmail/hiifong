@@ -72,17 +72,17 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2023
+> 🏆 23 Contributions in the Year 2023
  > 
-> 📦 999.8 kB Used in GitHub's Storage 
+> 📦 1.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,51 +90,6 @@
  > 
 > 🔑 23 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
-🌆 Daytime    183 commits    ███████░░░░░░░░░░░░░░░░░░   30.81% 
-🌃 Evening    305 commits    ████████████░░░░░░░░░░░░░   51.35% 
-🌙 Night      56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
-Tuesday      51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-Wednesday    102 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-Thursday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
-Friday       137 commits    █████░░░░░░░░░░░░░░░░░░░░   23.06% 
-Saturday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
-Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 35 mins             ████████████████░░░░░░░░░   64.65% 
-Rust                     17 mins             ████████░░░░░░░░░░░░░░░░░   31.61% 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
-
-🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-awesome-x                35 mins             ████████████████░░░░░░░░░   64.65% 
-hello_world              19 mins             ████████░░░░░░░░░░░░░░░░░   35.35%
-
-💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Vue** 
 
 ```text
@@ -148,5 +103,5 @@ Assembly                 2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023/01/02 12:19:12
+ Last Updated on 2023/01/03 00:19:03
 <!--END_SECTION:waka-->
