@@ -4,11 +4,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell美化](https://i.hiifong.cc/beautify/)
 - [Try Gitea Action](https://i.hiifong.cc/try-gitea-action/)
 - [Hugo Functions文档翻译](https://i.hiifong.cc/functions/)
 - [Hugo Template 文档翻译](https://i.hiifong.cc/template/)
 - [7月](https://i.hiifong.cc/7m/)
-- [10月](https://i.hiifong.cc/10m/)
 <!-- BLOG-POST-LIST:END -->
 
 
