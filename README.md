@@ -1,4 +1,4 @@
-# I'm hiifong,full stack developer like
+# Hi 👋, I'm hiifong!
 
 [![My user statistics](images/userstats.svg)](https://github.com/hiifong)
 
