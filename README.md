@@ -74,17 +74,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 79 Contributions in the Year 2023
+> 🏆 81 Contributions in the Year 2023
  > 
 > 📦 997.5 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 23 Public Repositories 
  > 
@@ -105,9 +105,9 @@
 Monday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
 Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
 Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
-Thursday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Thursday     66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
 Friday       130 commits    █████░░░░░░░░░░░░░░░░░░░░   21.85% 
-Saturday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Saturday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
 Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1%
 
 ```
@@ -155,5 +155,5 @@ Assembly                 2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023/01/07 12:18:55
+ Last Updated on 2023/01/08 00:19:51
 <!--END_SECTION:waka-->
