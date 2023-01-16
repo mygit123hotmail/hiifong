@@ -72,7 +72,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
@@ -80,7 +80,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 117 Contributions in the Year 2023
+> 🏆 118 Contributions in the Year 2023
  > 
 > 📦 995.3 kB Used in GitHub's Storage 
  > 
@@ -93,10 +93,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+🌞 Morning    43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
 🌆 Daytime    205 commits    ████████░░░░░░░░░░░░░░░░░   34.45% 
 🌃 Evening    282 commits    ███████████░░░░░░░░░░░░░░   47.39% 
-🌙 Night      64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76%
+🌙 Night      65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92%
 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -119,16 +119,17 @@ Sunday       81 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       13 mins             ███████████████████████░░   93.75% 
+Protocol Buffer          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HelloWorld               14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      14 mins             █████████████████████████   100.0%
 
 ```
 
@@ -145,5 +146,5 @@ Assembly                 2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023/01/16 00:20:45
+ Last Updated on 2023/01/16 12:19:06
 <!--END_SECTION:waka-->
