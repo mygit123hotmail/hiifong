@@ -1,5 +1,6 @@
 # Hi 👋, I'm hiifong!
 
+[![card](images/hiifong-card.svg)](https://github.com/hiifong)
 [![My user statistics](images/userstats.svg)](https://github.com/hiifong)
 
 📕  Latest Blog Posts
