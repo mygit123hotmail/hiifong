@@ -5,11 +5,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Journalctl output color log&lpar;`journalctl` 怎么输出彩色日志&rpar;](https://i.hiifong.cc/journalctl-color-log/)
 - [数据结构与算法之美&lpar;笔记&rpar;](https://i.hiifong.cc/geektime/)
 - [vim AnsiEsc脚本](https://i.hiifong.cc/ansiesc/)
 - [VSCode报Error Loading Workspace](https://i.hiifong.cc/error-loading-workspace/)
 - [PowerShell美化](https://i.hiifong.cc/beautify/)
-- [Try Gitea Action](https://i.hiifong.cc/try-gitea-action/)
 <!-- BLOG-POST-LIST:END -->
 
 
