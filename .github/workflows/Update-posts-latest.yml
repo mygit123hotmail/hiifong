@@ -17,4 +17,4 @@ jobs:
         with:
           max_post_count: "5"
           remove_duplicates: true
-          feed_list: "https://i.hiifong.cc/index.xml"
+          feed_list: "https://hiif.ong/index.xml"
