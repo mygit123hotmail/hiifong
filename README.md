@@ -1,5 +1,7 @@
 # Hi 👋, I'm hiifong!
 
+## GPG key ID: 0814559E2F97194D
+
 [![card](images/hiifong-card.svg)](https://github.com/hiifong)
 [![My user statistics](images/userstats.svg)](https://github.com/hiifong)
 
