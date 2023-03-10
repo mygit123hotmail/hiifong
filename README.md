@@ -7,11 +7,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Atomic Commit&lpar;git原子提交&rpar;](https://hiif.ong/git-atomic-commit/)
 - [Custom Neofetch&lpar;自定义neofetch&rpar;](https://hiif.ong/customneofetch/)
 - [Journalctl output color log&lpar;`journalctl` 怎么输出彩色日志&rpar;](https://hiif.ong/journalctl-color-log/)
 - [数据结构与算法之美&lpar;笔记&rpar;](https://hiif.ong/geektime/)
 - [vim AnsiEsc脚本](https://hiif.ong/ansiesc/)
-- [VSCode报Error Loading Workspace](https://hiif.ong/error-loading-workspace/)
 <!-- BLOG-POST-LIST:END -->
 
 
