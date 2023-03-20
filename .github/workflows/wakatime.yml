@@ -18,7 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "True"
-          BLOCKS: "⬜🟨🟩"
+          SYMBOL_VERSION: 3
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
