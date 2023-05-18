@@ -6,7 +6,7 @@
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Bubble Tea Tutorials&lpar;Bubble Tea教程&rpar;](https://hiif.ong/bubble-tea-tutorials/)
-- [Building Your Own Programming Language From Scratch](https://hiif.ong/buildingyourownprogramminglanguagefromscratch/)
+- [Building Your Own Programming Language From Scratch](https://hiif.ong/building-your-own-programming-language-from-scratch/)
 - [Go语法](https://hiif.ong/go%E8%AF%AD%E6%B3%95/)
 - [hosting your own apt repo&lpar;托管您自己的 apt 仓库&rpar;](https://hiif.ong/hosting-your-own-apt-repo/)
 - [Git Atomic Commit&lpar;git原子提交&rpar;](https://hiif.ong/git-atomic-commit/)
