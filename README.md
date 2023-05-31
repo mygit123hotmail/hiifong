@@ -5,11 +5,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [用Git打败Git&lpar;用魔法打败魔法&rpar;](https://hiif.ong/%E7%94%A8git%E6%89%93%E8%B4%A5git/)
 - [Go编程语言规范[译]](https://hiif.ong/go%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E8%A7%84%E8%8C%83/)
 - [Bubble Tea Tutorials&lpar;Bubble Tea教程&rpar;](https://hiif.ong/bubble-tea-tutorials/)
 - [Building Your Own Programming Language From Scratch](https://hiif.ong/building-your-own-programming-language-from-scratch/)
 - [Go语法](https://hiif.ong/go%E8%AF%AD%E6%B3%95/)
-- [hosting your own apt repo&lpar;托管您自己的 apt 仓库&rpar;](https://hiif.ong/hosting-your-own-apt-repo/)
 <!-- BLOG-POST-LIST:END -->
 
 
